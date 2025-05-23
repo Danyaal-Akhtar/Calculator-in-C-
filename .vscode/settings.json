@@ -1,0 +1,19 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "keyword",
+          "variable.language",
+          "meta.import",
+          "entity.name.type.class"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "editor.fontFamily": "Consolas, 'Courier New', monospace"
+}

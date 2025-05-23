@@ -2,7 +2,7 @@
 
 class Calculator
 {
-    static void Main()
+    static void Main() //test
     {
     
         Console.Write("Entrez le premier nombre : ");
