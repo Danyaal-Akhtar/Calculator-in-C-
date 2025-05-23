@@ -1,22 +1,22 @@
-# Calculatrice Console en C#
+# Console Calculator in C#
 
-Mon premier projet en C# !  
-Une calculatrice simple qui fonctionne dans la console.  
-Elle permet d’additionner, soustraire, multiplier et diviser deux nombres.
+My very first C# project!  
+A simple calculator that runs in the console.  
+It can add, subtract, multiply, and divide two numbers.
 
 ---
 
-## Fonctionnalités
+## Features
 
 - Addition
-- Soustraction
+- Subtraction
 - Multiplication
-- Division (avec gestion de la division par zéro)
+- Division (with division by zero handling)
 
 ---
 
-## Comment utiliser
+## How to Use
 
-1. Clone ce dépôt :
+1. Clone this repository:
    ```bash
    git clone https://github.com/Danyaal-Akhtar/Calculator-in-C#-.git
