@@ -19,4 +19,4 @@ Elle permet d’additionner, soustraire, multiplier et diviser deux nombres.
 
 1. Clone ce dépôt :
    ```bash
-   git clone https://github.com/tonpseudo/tonrepo.git
+   git clone https://github.com/Danyaal-Akhtar/Calculator-in-C#-.git
